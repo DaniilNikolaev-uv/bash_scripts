@@ -4,6 +4,3 @@
 ```bash
 curl -fsSL https://raw.githubusercontent.com/DaniilNikolaev-uv/bash_scripts/main/server_install.sh | bash
 ```
-
-```
-```
